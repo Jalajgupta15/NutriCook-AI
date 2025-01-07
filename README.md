@@ -41,7 +41,7 @@
 
 The application is deployed using **Netlify** for the frontend and **Heroku** for the backend. 
 
-[**Click here to explore NutriCook AI**](#)
+[**Click here to explore NutriCook AI**](https://graceful-licorice-e0329c.netlify.app/)
 
 ---
 
